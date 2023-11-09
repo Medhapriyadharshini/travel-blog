@@ -1,0 +1,10 @@
+ul li a:hover{
+    color: black;
+}
+.gallery-box img:hover{
+    transform: scale(1.1);
+}
+.container h5 a:hover{
+    color: rgb(206, 122, 77);
+
+}
